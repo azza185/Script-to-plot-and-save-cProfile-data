@@ -26,3 +26,7 @@ This will just take one of the files for both profilers depending on what number
 ### compareAverages.bash
 
 This is the simple one to run you dont need to set variabels or anything just run the file and two graphs will open and data will print.
+
+## A example plot
+
+![./plots/examplePlot.png](./plots/examplePlot.png)
